@@ -1,6 +1,6 @@
 # CIFAR-100
 
-Este proyecto explora el uso del dataset CIFAR-100, un conjunto de imágenes utilizado ampliamente en tareas de clasificación y aprendizaje profundo. El objetivo principal es experimentar y desarrollar modelos de machine learning capaces de identificar y clasificar imágenes en 100 categorías diferentes.
+En este proyecto se explora el uso del dataset CIFAR-100, un conjunto de imágenes utilizado ampliamente en tareas de clasificación y aprendizaje profundo. El objetivo principal es experimentar y desarrollar modelos de machine learning capaces de identificar y clasificar imágenes en 100 categorías diferentes.
 
 ## Características
 
@@ -11,7 +11,7 @@ Este proyecto explora el uso del dataset CIFAR-100, un conjunto de imágenes uti
 
 ## Resultados
 
-El modelo final desarrollado en este proyecto logra una precisión (**accuracy**) del **64%** sobre el conjunto de pruebas.
+El modelo final desarrollado en este proyecto ofrece una precisión (**accuracy**) del **64%** sobre el conjunto de pruebas mediante el uso de Data Augmentation.
 
 ## Requisitos
 
