@@ -18,7 +18,7 @@ El modelo final desarrollado en este proyecto ofrece una precisión (**accuracy*
 - Python 3.x
 - Bibliotecas recomendadas: NumPy, TensorFlow/Keras o PyTorch, Matplotlib
 
-## Uso
+## Instrucciones de uso
 
 1. Clona el repositorio:
    ```bash
